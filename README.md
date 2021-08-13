@@ -10,3 +10,4 @@
 
 <h3>Tableau連結:</h3>
 <p><a href='https://public.tableau.com/app/profile/vicwang/viz/sale_project/1?publish=yes' target = "_blank">營運月報</a></p>
+<p><a href='https://public.tableau.com/app/profile/vicwang/viz/Member_16284765203900/Member?publish=yes' target = "_blank">會員月報</a></p>
