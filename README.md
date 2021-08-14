@@ -3,9 +3,8 @@
 <p>提供每月會員經營與營業結果分析報告</p>
 
 <h3>專案執行方式:</h3>
-<p>語言:Python,Mysql</br>
-套件:Pandas</br>
-工具:Jupyter Notebook,Mysql Workbench,Tableau,Excel</br>
+<p>語言:Mysql</br>
+工具:Mysql Workbench,Tableau,Excel</br>
 呈現方式:Tableau</p>
 
 <h3>Tableau連結:</h3>
